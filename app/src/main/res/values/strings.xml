@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Developers Life</string>
+    <string name="api_url">https://developerslife.ru/random?json=true</string>
+</resources>
